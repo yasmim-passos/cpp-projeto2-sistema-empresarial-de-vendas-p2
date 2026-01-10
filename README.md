@@ -51,6 +51,7 @@ Cada equipe foi responsável por um módulo específico do sistema:
 - Menus interativos com navegação por teclado
 - Cadastro, listagem e consulta de dados
 - Integração entre módulos
+- Persistência de dados em arquivos
 - Interface gráfica amigável
 
 ---
