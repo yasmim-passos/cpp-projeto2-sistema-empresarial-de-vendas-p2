@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sistema-empresarial-de-vendas" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/exe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/exe" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="clientes.cpp" />
+		<Unit filename="clientes.h" />
+		<Unit filename="fornecedores.cpp" />
+		<Unit filename="fornecedores.h" />
+		<Unit filename="gestao_estoque.cpp" />
+		<Unit filename="gestao_estoque.h" />
+		<Unit filename="interface.cpp" />
+		<Unit filename="interface.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="relatorio_estoque.cpp" />
+		<Unit filename="relatorio_estoque.h" />
+		<Unit filename="relatorio_vendas.cpp" />
+		<Unit filename="relatorio_vendas.h" />
+		<Unit filename="utilitarios_re.cpp" />
+		<Unit filename="utilitarios_re.h" />
+		<Unit filename="vendas.cpp" />
+		<Unit filename="vendas.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

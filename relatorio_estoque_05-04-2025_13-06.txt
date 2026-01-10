@@ -1,0 +1,103 @@
+====================================================================================================
+						RELATORIO DE ESTOQUE
+====================================================================================================
+
+1. INFORMAcoES GERAIS
+-------------------------------------------------------------------
+  Data do Relatorio        : 05/04/2025
+  Responsavel              : Pedro
+  Localizacao do Estoque   : Galpao
+  Fonte dos Dados          : Controle de Estoque (Modulo 2)
+-------------------------------------------------------------------
+
+Observacoes:
+- Este relatorio é baseado em dados gerados automaticamente pelo sistema de controle de estoque.
+- Certifique-se de revisar as informacoes antes de executar acoes relacionadas ao estoque.
+- As analises e alertas estao baseadas em métricas pré-definidas pela equipe responsavel.
+====================================================================================================
+
+2. Produtos em Estoque
+
+=================================================================================================================================
+| Cod | Nome do Produto      | Categoria    | Data       |  Qtd. Ant. | Qtd. Atual |  Preço Custo |  Valor Total | Reabastecer  |
+=================================================================================================================================
+| 1   | Banana               | Fruta        | 04/04/2025 |         13 |         13 |        25.00 |       325.00 | RN           |
+| 2   | Suco de Laranja      | Bebida       | 04/04/2025 |        279 |        279 |         3.50 |       976.50 | NR           |
+=================================================================================================================================
+
+
+=======================================================================================================================================================================
+---------------------------------------- LEGENDA ----------------------------------------
+Cod.            : Codigo do Produto
+Nome do Produto : Identificacao do item no estoque
+Categoria       : Tipo ou classificacao do produto
+Data            : Data de cadastro ou ultima atualizacao do produto
+Qtd. Ant.       : Quantidade existente anteriormente no estoque
+Qtd. Atual      : Quantidade atual no estoque
+Preco Custo     : Custo unitario de cada produto
+Valor Total     : Produto da Qtd. Atual x Preco Custo
+Reabastecer     : Status do reabastecimento, sendo:
+                    - RC: Reabastecimento Critico
+                    - RN: Reabastecimento Necessario
+                    - NR: Nao Necessario Reabastecer
+-----------------------------------------------------------------------------------------
+===============================================================================================================
+
+
+3. Alertas e Observacoes
+================================================================================
+
+- Produtos com estoque abaixo do minimo:
+--------------------------------------------------------------------------------
+  Nenhum produto com reabastecimento critico.
+
+- Produtos com excesso de estoque:
+--------------------------------------------------------------------------------
+  * Cod: 2 - Suco de Laranja
+
+- Produtos com estoque zerado:
+--------------------------------------------------------------------------------
+  Nenhum produto com estoque zerado.
+
+- Produtos com preco unitario elevado:
+--------------------------------------------------------------------------------
+  Nenhum produto com preco elevado.
+
+- Produtos com alto valor total:
+--------------------------------------------------------------------------------
+  Nenhum produto com alto valor total.
+
+Resumo de Alertas
+================================================================================
+  Total de produtos com reabastecimento critico : 0
+  Total de produtos com excesso de estoque      : 1
+  Total de produtos com estoque zerado          : 0
+================================================================================
+
+
+4. Analise Financeira
+================================================================================
+Valor total do estoque: R$ 1301.50
+
+Detalhamento por Categoria:
+--------------------------------------------------------------------------------
+  - Bebida: R$ 976.50
+  - Fruta: R$ 325.00
+
+Observacoes Financeiras:
+--------------------------------------------------------------------------------
+- A analise considera os valores baseados no preco unitario dos produtos.
+- As categorias representam a distribuicao financeira no estoque.
+================================================================================
+
+
+===============================================================================================================
+5. Assinatura e Validacao
+===============================================================================================================
+Declaro que as informacoes contidas neste relatorio estao de acordo com o levantamento realizado em 05/04/2025 às 13:06.
+
+Assinatura: Adylson, Alan , Bruno, Matheus, Wallace.
+Nome      : Pedro
+Cargo     : Gerente de Estoque
+Data      : 05/04/2025 às 13:06
+===============================================================================================================

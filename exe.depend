@@ -1,0 +1,569 @@
+# depslib dependency file v1.0
+1736202606 source:c:\users\david\onedrive\documentos\p2\exe\main.cpp
+	<iostream>
+	<cstdio>
+	"gconio.h"
+
+1733427039 c:\users\david\onedrive\documentos\p2\exe\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1737069814 source:c:\users\berna\documents\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	"gconio.h"
+
+1736204092 c:\users\berna\documents\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1737153686 source:c:\users\berna\documents\projeto de prog2 em grupo\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	"gconio.h"
+
+1736204092 c:\users\berna\documents\projeto de prog2 em grupo\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1737598930 source:c:\users\berna\downloads\teste projeto\prog2projeto\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1737593234 c:\users\berna\downloads\teste projeto\prog2projeto\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1737658651 source:c:\users\david\downloads\prog2projeto\prog2projeto\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1737593234 c:\users\david\downloads\prog2projeto\prog2projeto\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1738003174 source:c:\users\gusta\downloads\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1737918588 c:\users\gusta\downloads\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1738042790 source:c:\users\berna\downloads\arquivo\proj2\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1738042005 c:\users\berna\downloads\arquivo\proj2\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1738094051 source:c:\users\david\downloads\proj2 (1)\proj2\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1738081454 c:\users\david\downloads\proj2 (1)\proj2\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1738113780 source:c:\users\berna\downloads\arquivo\proj2 (2)\proj2 (1)\proj2\proj2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<locale.h>
+	<fstream>
+	<string>
+	<conio.h>
+	"gconio.h"
+	<limits>
+
+1738113051 c:\users\berna\downloads\arquivo\proj2 (2)\proj2 (1)\proj2\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1740833727 source:d:\downloads\proj2\main.cpp
+	<iostream>
+	<locale.h>
+	<conio.h>
+	"gconio.h"
+
+1738182274 d:\downloads\proj2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1740864848 source:d:\downloads\proj2\tabelas.cpp
+	"tabelas.h"
+	<fstream>
+
+1740864118 d:\downloads\proj2\tabelas.h
+	"tipos.h"
+
+1740864301 d:\downloads\proj2\tipos.h
+	<ctime>
+
+1741478016 source:c:\users\pedro\code\projeto-2\main.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"vendas.h"
+
+1741478243 c:\users\pedro\code\projeto-2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1741465506 source:c:\users\pedro\code\projeto-2\tabelas.cpp
+	"tabelas.h"
+	<windows.h>
+	<fstream>
+
+1741396816 c:\users\pedro\code\projeto-2\tabelas.h
+	"tipos.h"
+
+1741575035 c:\users\pedro\code\projeto-2\tipos.h
+	<ctime>
+
+1740920863 source:c:\users\pedro\code\projeto-2\clientes_fornecedores.cpp
+	"clientes_fornecedores.h"
+
+1740920835 c:\users\pedro\code\projeto-2\clientes_fornecedores.h
+
+1740921095 source:c:\users\pedro\code\projeto-2\estatistica.cpp
+	"estatistica.h"
+
+1740921146 c:\users\pedro\code\projeto-2\estatistica.h
+
+1740921048 source:c:\users\pedro\code\projeto-2\financeiro.cpp
+	"financeiro.h"
+
+1740921146 c:\users\pedro\code\projeto-2\financeiro.h
+
+1740921002 source:c:\users\pedro\code\projeto-2\gestao_estoque.cpp
+	"gestao_estoque.h"
+
+1740921146 c:\users\pedro\code\projeto-2\gestao_estoque.h
+
+1740920957 source:c:\users\pedro\code\projeto-2\gestao_usuario.cpp
+	"gestao_usuario.h"
+
+1740921146 c:\users\pedro\code\projeto-2\gestao_usuario.h
+
+1740921144 source:c:\users\pedro\code\projeto-2\seguro.cpp
+	"seguro.h"
+
+1740921146 c:\users\pedro\code\projeto-2\seguro.h
+
+1741576614 source:c:\users\pedro\code\projeto-2\vendas.cpp
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	"vendas.h"
+	"gconio.h"
+
+1741041452 c:\users\pedro\code\projeto-2\vendas.h
+
+1741480037 c:\users\pedro\code\projeto-2\interface.h
+
+1741480051 source:c:\users\pedro\code\projeto-2\interface.cpp
+	"interface.h"
+
+1740920863 source:c:\users\pedro\code\projeto2\clientes_fornecedores.cpp
+	"clientes_fornecedores.h"
+
+1740920835 c:\users\pedro\code\projeto2\clientes_fornecedores.h
+
+1740921095 source:c:\users\pedro\code\projeto2\estatistica.cpp
+	"estatistica.h"
+
+1740921146 c:\users\pedro\code\projeto2\estatistica.h
+
+1740921048 source:c:\users\pedro\code\projeto2\financeiro.cpp
+	"financeiro.h"
+
+1740921146 c:\users\pedro\code\projeto2\financeiro.h
+
+1744407045 source:c:\users\pedro\code\projeto2\gestao_estoque.cpp
+	"gestao_estoque.h"
+	<string>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1743872245 c:\users\pedro\code\projeto2\gestao_estoque.h
+
+1740920957 source:c:\users\pedro\code\projeto2\gestao_usuario.cpp
+	"gestao_usuario.h"
+
+1740921146 c:\users\pedro\code\projeto2\gestao_usuario.h
+
+1742235693 source:c:\users\pedro\code\projeto2\interface.cpp
+
+1744311408 c:\users\pedro\code\projeto2\interface.h
+	"gconio.h"
+	<cstring>
+	"fornecedores.h"
+	"gestao_estoque.h"
+	"vendas.h"
+	"clientes.h"
+
+1744409397 source:c:\users\pedro\code\projeto2\main.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"interface.h"
+	"fornecedores.h"
+	"clientes.h"
+	"vendas.h"
+	"gestao_estoque.h"
+	"relatorio_vendas.h"
+	"relatorio_estoque.h"
+
+1743811960 c:\users\pedro\code\projeto2\vendas.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"gestao_estoque.h"
+
+1740921144 source:c:\users\pedro\code\projeto2\seguro.cpp
+	"seguro.h"
+
+1740921146 c:\users\pedro\code\projeto2\seguro.h
+
+1741465506 source:c:\users\pedro\code\projeto2\tabelas.cpp
+	"tabelas.h"
+	<windows.h>
+	<fstream>
+
+1741396816 c:\users\pedro\code\projeto2\tabelas.h
+	"tipos.h"
+
+1741575035 c:\users\pedro\code\projeto2\tipos.h
+	<ctime>
+
+1742232455 c:\users\pedro\code\projeto2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1744155243 source:c:\users\pedro\code\projeto2\vendas.cpp
+	"vendas.h"
+	<cstdio>
+
+1744407046 source:c:\users\pedro\code\projeto2\fornecedores.cpp
+	"fornecedores.h"
+	<string>
+	<cstring>
+	<fstream>
+
+1743872255 c:\users\pedro\code\projeto2\fornecedores.h
+
+1742232560 source:c:\users\202400007795\downloads\projeto2\fornecedores.cpp
+	"fornecedores.h"
+
+1742248307 c:\users\202400007795\downloads\projeto2\fornecedores.h
+
+1740921002 source:c:\users\202400007795\downloads\projeto2\gestao_estoque.cpp
+	"gestao_estoque.h"
+
+1740921146 c:\users\202400007795\downloads\projeto2\gestao_estoque.h
+
+1742235693 source:c:\users\202400007795\downloads\projeto2\interface.cpp
+
+1742308215 source:c:\users\202400007795\downloads\projeto2\main.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"interface.h"
+
+1742308335 c:\users\202400007795\downloads\projeto2\interface.h
+	"gconio.h"
+	<cstring>
+	"fornecedores.h"
+
+1742232455 c:\users\202400007795\downloads\projeto2\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1742232075 source:c:\users\202400007795\downloads\projeto2\vendas.cpp
+	<cstring>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+
+1743292667 source:c:\users\pedro\code\projeto2\produtos.cpp
+
+1743292594 c:\users\pedro\code\projeto2\produtos.h
+
+1744073095 source:c:\users\pedro\code\projeto2\clientes.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"clientes.h"
+	<fstream>
+	<cstring>
+	<string>
+
+1743819486 c:\users\pedro\code\projeto2\clientes.h
+	<cstdlib>
+
+1743822886 source:c:\users\pedro\code\projeto2\relatorio_vendas.cpp
+
+1743979491 c:\users\pedro\code\projeto2\relatorio_vendas.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<ctime>
+	<climits>
+	<map>
+	<cstdio>
+
+1744407043 source:c:\users\pedro\code\projeto2\relatorio_estoque.cpp
+	<windows.h>
+	"utilitarios_re.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<locale>
+	"gestao_estoque.h"
+	<limits>
+	<locale>
+	<algorithm>
+
+1743868691 source:c:\users\pedro\code\projeto2\utilitarios_re.cpp
+	<iostream>
+	"utilitarios_re.h"
+
+1744407045 c:\users\pedro\code\projeto2\utilitarios_re.h
+	<cstdio>
+	<string>
+	<unordered_map>
+	<fstream>
+	"gestao_estoque.h"
+
+1743867503 c:\users\pedro\code\projeto2\relatorio_estoque.h
+	<string>
+	<fstream>
+	"utilitarios_re.h"
+
+1744073095 source:c:\users\pedro\code\projeto2-equipe02\clientes.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"clientes.h"
+	<fstream>
+	<cstring>
+	<string>
+
+1743819486 c:\users\pedro\code\projeto2-equipe02\clientes.h
+	<cstdlib>
+
+1744407046 source:c:\users\pedro\code\projeto2-equipe02\fornecedores.cpp
+	"fornecedores.h"
+	<string>
+	<cstring>
+	<fstream>
+
+1743872255 c:\users\pedro\code\projeto2-equipe02\fornecedores.h
+
+1744407045 source:c:\users\pedro\code\projeto2-equipe02\gestao_estoque.cpp
+	"gestao_estoque.h"
+	<string>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1743872245 c:\users\pedro\code\projeto2-equipe02\gestao_estoque.h
+
+1742235693 source:c:\users\pedro\code\projeto2-equipe02\interface.cpp
+
+1744409397 source:c:\users\pedro\code\projeto2-equipe02\main.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	"interface.h"
+	"fornecedores.h"
+	"clientes.h"
+	"vendas.h"
+	"gestao_estoque.h"
+	"relatorio_vendas.h"
+	"relatorio_estoque.h"
+
+1744311408 c:\users\pedro\code\projeto2-equipe02\interface.h
+	"gconio.h"
+	<cstring>
+	"fornecedores.h"
+	"gestao_estoque.h"
+	"vendas.h"
+	"clientes.h"
+
+1742232455 c:\users\pedro\code\projeto2-equipe02\gconio.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<termios.h>
+
+1743811960 c:\users\pedro\code\projeto2-equipe02\vendas.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"gestao_estoque.h"
+
+1743979491 c:\users\pedro\code\projeto2-equipe02\relatorio_vendas.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	<ctime>
+	<climits>
+	<map>
+	<cstdio>
+
+1743867503 c:\users\pedro\code\projeto2-equipe02\relatorio_estoque.h
+	<string>
+	<fstream>
+	"utilitarios_re.h"
+
+1744407045 c:\users\pedro\code\projeto2-equipe02\utilitarios_re.h
+	<cstdio>
+	<string>
+	<unordered_map>
+	<fstream>
+	"gestao_estoque.h"
+
+1744407043 source:c:\users\pedro\code\projeto2-equipe02\relatorio_estoque.cpp
+	<windows.h>
+	"utilitarios_re.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<locale>
+	"gestao_estoque.h"
+	<limits>
+	<locale>
+	<algorithm>
+
+1743822886 source:c:\users\pedro\code\projeto2-equipe02\relatorio_vendas.cpp
+
+1743868691 source:c:\users\pedro\code\projeto2-equipe02\utilitarios_re.cpp
+	<iostream>
+	"utilitarios_re.h"
+
+1744155243 source:c:\users\pedro\code\projeto2-equipe02\vendas.cpp
+	"vendas.h"
+	<cstdio>
+
