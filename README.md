@@ -1,4 +1,4 @@
-# 🏢 Sistema Empresarial de Vendas
+# 🏢 Projeto Conjunto Programação II - Sistema Empresarial de Vendas
 
 Projeto desenvolvido em **C++** para a disciplina **Programação II**, com o objetivo de simular um **sistema empresarial de vendas**, utilizando interface gráfica em modo texto por meio da biblioteca **gconio**.
 
